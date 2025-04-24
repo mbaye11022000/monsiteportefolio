@@ -327,3 +327,20 @@ footer {
   border: 1px solid #000; /* facultatif : contour noir */
 }
 
+
+
+.custom-toggler {
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #f0f0f0; /* ou une couleur de ton choix */
+  border: 1px solid #ccc;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.custom-toggler .navbar-toggler-icon {
+  background-size: 80% 80%;
+  margin: auto;
+}
+
+
