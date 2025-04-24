@@ -302,11 +302,11 @@ footer {
 
 .whatsapp-btn {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: #25D366;
     color: white;
     padding: 9px 12px;
-    border-radius: 5px;
+    border-radius: 20px;
     text-decoration: none;
     font-weight: bold;
 }
