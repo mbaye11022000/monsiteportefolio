@@ -317,9 +317,9 @@ footer {
 
 
 .logo-circle {
-  width: 40px;
-  height: 40px;
-  border-radius: 70%;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
   object-fit: cover;
   border: 2px solid #000; /* facultatif : contour noir */
 }
