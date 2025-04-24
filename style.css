@@ -314,3 +314,12 @@ footer {
 .whatsapp-btn:hover {
     background-color: #1ebc59;
 }
+
+
+.logo-circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #000; /* facultatif : contour noir */
+}
